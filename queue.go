@@ -225,7 +225,7 @@ func (q *Queue) Get(ctx context.Context, taskID string) (*Task, error) {
 	if err != nil {
 		return nil, err
 	}
-	if results == nil {
+	if results == nil || len(results) == 0 {
 		return nil, ErrTaskNotFound
 	}
 

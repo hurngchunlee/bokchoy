@@ -7,7 +7,7 @@ import (
 	"github.com/golang/protobuf/ptypes/wrappers"
 	grpc_retry "github.com/grpc-ecosystem/go-grpc-middleware/retry"
 	"github.com/pkg/errors"
-	"github.com/thoas/bokchoy/contrib/rpc/proto"
+	"github.com/hurngchunlee/bokchoy/contrib/rpc/proto"
 	"google.golang.org/grpc"
 	"google.golang.org/grpc/codes"
 )

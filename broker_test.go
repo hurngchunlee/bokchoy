@@ -5,7 +5,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 func TestBroker_Redis(t *testing.T) {

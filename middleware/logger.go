@@ -6,7 +6,7 @@ import (
 	"os"
 	"time"
 
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 var (

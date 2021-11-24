@@ -8,8 +8,8 @@ import (
 
 	"github.com/go-redis/redis/v8"
 
-	"github.com/thoas/bokchoy"
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy"
+	"github.com/hurngchunlee/bokchoy/logging"
 )
 
 func main() {

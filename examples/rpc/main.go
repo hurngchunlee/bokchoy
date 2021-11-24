@@ -9,9 +9,9 @@ import (
 	"os/signal"
 	"time"
 
-	"github.com/thoas/bokchoy"
-	"github.com/thoas/bokchoy/contrib/rpc"
-	"github.com/thoas/bokchoy/middleware"
+	"github.com/hurngchunlee/bokchoy"
+	"github.com/hurngchunlee/bokchoy/contrib/rpc"
+	"github.com/hurngchunlee/bokchoy/middleware"
 	"google.golang.org/grpc/codes"
 )
 

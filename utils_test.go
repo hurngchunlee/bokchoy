@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 	"github.com/thoas/go-funk"
 )
 

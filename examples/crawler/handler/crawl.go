@@ -12,9 +12,9 @@ import (
 
 	"github.com/thoas/go-funk"
 
-	"github.com/thoas/bokchoy"
-	"github.com/thoas/bokchoy/examples/crawler/parser"
-	"github.com/thoas/bokchoy/examples/crawler/task"
+	"github.com/hurngchunlee/bokchoy"
+	"github.com/hurngchunlee/bokchoy/examples/crawler/parser"
+	"github.com/hurngchunlee/bokchoy/examples/crawler/task"
 )
 
 // NewCrawlHandler initializes a new CrawlHandler instance.

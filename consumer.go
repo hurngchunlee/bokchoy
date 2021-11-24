@@ -5,7 +5,7 @@ import (
 	"fmt"
 	"sync"
 
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy/logging"
 
 	"github.com/pkg/errors"
 )

@@ -9,9 +9,9 @@ import (
 	"os/signal"
 
 	"github.com/getsentry/sentry-go"
-	"github.com/thoas/bokchoy"
-	bokchoysentry "github.com/thoas/bokchoy/contrib/sentry"
-	"github.com/thoas/bokchoy/middleware"
+	"github.com/hurngchunlee/bokchoy"
+	bokchoysentry "github.com/hurngchunlee/bokchoy/contrib/sentry"
+	"github.com/hurngchunlee/bokchoy/middleware"
 )
 
 func main() {

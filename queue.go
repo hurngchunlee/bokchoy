@@ -7,7 +7,7 @@ import (
 	"sync"
 	"time"
 
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy/logging"
 
 	"github.com/pkg/errors"
 )

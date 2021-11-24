@@ -1,4 +1,4 @@
-module github.com/thoas/bokchoy
+module github.com/hurngchunlee/bokchoy
 
 go 1.16
 

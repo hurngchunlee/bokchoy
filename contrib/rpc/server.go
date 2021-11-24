@@ -8,9 +8,9 @@ import (
 
 	"google.golang.org/grpc"
 
-	"github.com/thoas/bokchoy"
-	"github.com/thoas/bokchoy/contrib/rpc/proto"
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy"
+	"github.com/hurngchunlee/bokchoy/contrib/rpc/proto"
+	"github.com/hurngchunlee/bokchoy/logging"
 )
 
 // Server is a rpc server which contains gRPC.

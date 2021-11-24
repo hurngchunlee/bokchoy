@@ -5,7 +5,7 @@ import (
 
 	"github.com/stretchr/testify/assert"
 
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 func TestRequest_String(t *testing.T) {

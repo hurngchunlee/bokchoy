@@ -4,7 +4,7 @@ import (
 	"testing"
 
 	"github.com/stretchr/testify/assert"
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 func TestTask_Serialize(t *testing.T) {
@@ -36,7 +36,7 @@ func TestTask_Finished(t *testing.T) {
 	task.MarkAsSucceeded()
 	is.True(task.Finished())
 	task.MarkAsFailed(nil)
-	task.MaxRetries < 0
+	task.MaxRetries = -1
 	is.True(task.Finished())
 	task.MaxRetries = 3
 	is.False(task.Finished())

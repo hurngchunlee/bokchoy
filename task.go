@@ -8,7 +8,7 @@ import (
 
 	"github.com/pkg/errors"
 
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy/logging"
 )
 
 const (

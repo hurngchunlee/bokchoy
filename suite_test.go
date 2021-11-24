@@ -7,9 +7,9 @@ import (
 	"os"
 	"testing"
 
-	"github.com/thoas/bokchoy"
-	"github.com/thoas/bokchoy/logging"
-	"github.com/thoas/bokchoy/middleware"
+	"github.com/hurngchunlee/bokchoy"
+	"github.com/hurngchunlee/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy/middleware"
 )
 
 type suiteServer struct {

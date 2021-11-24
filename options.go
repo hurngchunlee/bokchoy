@@ -4,7 +4,7 @@ import (
 	"strings"
 	"time"
 
-	"github.com/thoas/bokchoy/logging"
+	"github.com/hurngchunlee/bokchoy/logging"
 )
 
 // Options is the bokchoy options.

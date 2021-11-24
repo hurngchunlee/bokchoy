@@ -12,7 +12,7 @@ import (
 	"strings"
 	"sync/atomic"
 
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 // Key to use when setting the request ID.

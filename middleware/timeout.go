@@ -6,7 +6,7 @@ import (
 	"context"
 	"time"
 
-	"github.com/thoas/bokchoy"
+	"github.com/hurngchunlee/bokchoy"
 )
 
 // Timeout is a middleware that cancels ctx after a given timeout and return
